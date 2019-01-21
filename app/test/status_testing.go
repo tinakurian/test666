@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"github.com/goadesign/goa"
 	"github.com/goadesign/goa/goatest"
-	"github.com/golang-starters/golang-rest-http/app"
+	"github.com/tinakurian/golang-rest-http/app"
 	"io"
 	"log"
 	"net/http"
